@@ -3,9 +3,9 @@ public class Variable {
         int varibale;
         varibale = 10;
 
-        System.out.println(varibale%3);     /*取余*/
-        System.out.println(varibale/3);      /*取模，*/
-        System.out.println(varibale/3.0);   /*除法*/
+        System.out.println(varibale%3);     //取余
+        System.out.println(varibale/3);      //取模
+        System.out.println(varibale/3.0);   //除法
     }
 }
 
